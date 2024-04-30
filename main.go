@@ -17,4 +17,18 @@ func main() {
 			fmt.Println(i)
 		}
 	}
+
+
+	var arr1 = [2]string{"Nick","Ocampo"}
+	arr2 := [4]int{2,0,2,4}
+  
+	fmt.Println(arr1)
+	fmt.Println(arr2)
+
+
+	
 }
+
+
+
+
